@@ -1,2 +1,3 @@
-# ky_glocal_test1
-first test
+# Wlc
+## Git hub 기반의 IOT 프로젝트 입니다.
+### 2025.11.17
